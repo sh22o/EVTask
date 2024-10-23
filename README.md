@@ -40,4 +40,4 @@ Dynamic Routing: Setting up dynamic routes for individual product pages required
 If you have any questions or would like to connect, feel free to reach out:
 
 LinkedIn: https://www.linkedin.com/in/shereen-wagdy-%F0%9F%87%B5%F0%9F%87%B8-4430a3166/ 
-Phone Number: 01060377487
+
